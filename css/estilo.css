@@ -1,0 +1,30 @@
+.bg{
+    background-color: darkblue;
+}
+i:hover{
+    color: red;
+}
+i:hover.fa-square-facebook{
+    color: blue;
+}
+i:hover.fa-square-instagram{
+    color: rgb(236, 81, 107);
+}
+h4{
+    text-decoration: none;
+}
+p.data{
+    font-size: 0.8em;
+}
+img.card-title{
+    height: 100px;
+}
+h4.title{
+    color: brown;
+}
+h4:hover.title{
+    color: rgb(114, 253, 0);
+}
+li:hover.border{
+    background-color: aqua;
+}
